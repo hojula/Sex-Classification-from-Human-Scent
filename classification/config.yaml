@@ -1,0 +1,27 @@
+batch_size: 16
+script_dir: /home/user/project/scripts/
+# Directory with singularity image
+root_dir: /mnt/storage/project_root/
+save_dir: /mnt/storage/project/models/
+plots_dir: /mnt/storage/project/plots/
+logs_dir: /mnt/storage/project/logs/
+tic_data_dir_registered: &tic_data_dir_registered /mnt/data/mock_dataset/warped_data/
+data_dir: *tic_data_dir_registered
+cache_dir: /data/temp/cache/
+master_mask_filepath: /mnt/data/mock_dataset/mask/master_mask.png
+txt_dir: '/mnt/storage/text_data/'
+affine_shift_max_px: 5
+subsample: -1
+num_folds: 10
+
+training_params:
+    learning_rate_model: 3e-4
+    epochs: 100
+    plot_after: 10
+    save_after: 10
+    valid_after: 1
+    sampler_size: 1
+
+model_classname: models.LinearProjectionModel1
+model_params:
+  output_size: 1

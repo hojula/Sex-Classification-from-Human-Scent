@@ -1,0 +1,210 @@
+1-Decanol, 2-hexyl-: !!python/tuple
+- 203.47663551401868
+- 657.8971962616822
+1-Dodecanamine, N,N-dimethyl-: !!python/tuple
+- 106.91747572815534
+- 709.5922330097087
+1-Dodecanol: !!python/tuple
+- 116.7741935483871
+- 521.0046082949309
+1-Hexadecanamine, N,N-dimethyl-: !!python/tuple
+- 183.5734597156398
+- 829.7156398104265
+1-Hexadecanol: !!python/tuple
+- 194.45622119815667
+- 622.2304147465438
+1-Octadecanol: !!python/tuple
+- 228.76036866359448
+- 663.6635944700461
+1-Tetradecanamine, N,N-dimethyl-: !!python/tuple
+- 146.9142857142857
+- 773.6619047619048
+1-Tetradecanol: !!python/tuple
+- 157.21658986175115
+- 574.4239631336405
+2,5-pyrrolidinedione, 3-decyl-: !!python/tuple
+- 183.73394495412845
+- 637.7981651376147
+2,5-pyrrolidinedione, 3-dodecyl-: !!python/tuple
+- 219.06422018348624
+- 684.7247706422019
+2,5-pyrrolidinedione, 3-hexadecyl-: !!python/tuple
+- 281.6330275229358
+- 766.0366972477065
+2,5-pyrrolidinedione, 3-tetradecyl-: !!python/tuple
+- 251.69724770642202
+- 724.8623853211009
+2-Hexyl-1-octanol: !!python/tuple
+- 166.85253456221199
+- 615.0506912442396
+2-Propenoic acid, 3-(4-methoxyphenyl)-, 2-ethylhexyl ester (izomer 1): !!python/tuple
+- 262.2672811059908
+- 490.60829493087556
+2-Propenoic acid, 3-(4-methoxyphenyl)-, 2-ethylhexyl ester (izomer 2): !!python/tuple
+- 292.96774193548384
+- 463.2534562211982
+5,10-Diethoxy-2,3,7,8-tetrahydro-1H,6H-dipyrrolo[1,2-a_1',2'-d]pyrazine: !!python/tuple
+- 272.9672897196262
+- 263.80841121495325
+9-Hexadecenoic acid, dodecyl ester: !!python/tuple
+- 350.5740740740741
+- 761.8564814814815
+9-Hexadecenoic acid, eicosyl ester: !!python/tuple
+- 400.8761467889908
+- 1042.2706422018348
+9-Hexadecenoic acid, hexadecyl ester: !!python/tuple
+- 377.3807339449541
+- 864.9036697247707
+9-Hexadecenoic acid, octadecyl ester: !!python/tuple
+- 389.4633027522936
+- 940.6284403669724
+9-Hexadecenoic acid, tetradecyl ester: !!python/tuple
+- 364.60091743119267
+- 806.7935779816514
+Benzoic acid, 2-hydroxy-, phenylmethyl ester: !!python/tuple
+- 212.25531914893617
+- 451.6737588652482
+Benzoic acid, dodecyl ester: !!python/tuple
+- 259.5833333333333
+- 562.7361111111111
+Benzoic acid, pentadecyl ester: !!python/tuple
+- 303.9065420560748
+- 620.8551401869158
+Benzoic acid, tetradecyl ester: !!python/tuple
+- 289.7546296296296
+- 601.4074074074074
+Benzoic acid, tridecyl ester: !!python/tuple
+- 274.86511627906975
+- 582.6651162790698
+Caffeine: !!python/tuple
+- 237.19095477386935
+- 314.95979899497485
+Cholest-4-en-3-one: !!python/tuple
+- 395.6238532110092
+- 545.5183486238532
+Cholesta-3,5-dien-7-one: !!python/tuple
+- 385.8302752293578
+- 614.3119266055046
+Cholesta-3,5-diene (izomer 1): !!python/tuple
+- 319.30143540669854
+- 919.0622009569378
+Cholesta-3,5-diene (izomer 2): !!python/tuple
+- 337.17511520737327
+- 914.9769585253456
+Cholesta-4,6-dien-3-one: !!python/tuple
+- 397.0091743119266
+- 558.348623853211
+Cholesterol: !!python/tuple
+- 367.05045871559633
+- 785.6009174311927
+Diethylene glycol monododecyl ether: !!python/tuple
+- 243.77403846153845
+- 501.58653846153845
+Dodecanamide, N-allyl-: !!python/tuple
+- 234.79723502304148
+- 375.1152073732719
+Dodecane, 1-chloro-: !!python/tuple
+- 110.42396313364056
+- 577.3778801843318
+Ethanol, 2-(dodecyloxy)-: !!python/tuple
+- 170.0648148148148
+- 535.0138888888889
+Ethanol, 2-(tetradecyloxy)-: !!python/tuple
+- 206.4418604651163
+- 579.293023255814
+Fumaric acid, 2-dimethylaminoethyl heptyl ester: !!python/tuple
+- 288.13824884792626
+- 390.99078341013825
+Fumaric acid, 2-dimethylaminoethyl nonyl ester: !!python/tuple
+- 316.50230414746545
+- 424.33179723502303
+Fumaric acid, 2-dimethylaminoethyl tridecyl ester: !!python/tuple
+- 360.2651162790698
+- 493.4046511627907
+Fumaric acid, 2-dimethylaminoethyl undecyl ester: !!python/tuple
+- 342.1981566820277
+- 458.5299539170507
+Heptacosane: !!python/tuple
+- 300.6467889908257
+- 1050.1743119266055
+Hexacosane: !!python/tuple
+- 287.33179723502303
+- 1031.926267281106
+Hexadecanamide, N-allyl-: !!python/tuple
+- 296.5801886792453
+- 441.24528301886795
+Hexadecanoic acid, dodecyl ester: !!python/tuple
+- 352.77064220183485
+- 762.0688073394496
+Hexadecanoic acid, eicosyl ester: !!python/tuple
+- 401.94554455445547
+- 1050.029702970297
+Hexadecanoic acid, hexadecyl ester: !!python/tuple
+- 378.76146788990826
+- 867.7155963302753
+Hexadecanoic acid, octadecyl ester: !!python/tuple
+- 390.6467889908257
+- 945.8302752293578
+Hexadecanoic acid, tetradecyl ester: !!python/tuple
+- 366.1880733944954
+- 810.6192660550458
+Hexaethylene glycol monododecyl ether: !!python/tuple
+- 370.48979591836735
+- 584.6632653061224
+Isopropyl myristate: !!python/tuple
+- 190.21428571428572
+- 548.2428571428571
+Isopropyl palmitate: !!python/tuple
+- 224.4537037037037
+- 589.0416666666666
+Methoxyacetic acid, dodecyl ester: !!python/tuple
+- 197.9626168224299
+- 471.0700934579439
+Methoxyacetic acid, tetradecyl ester: !!python/tuple
+- 232.42990654205607
+- 507.99532710280374
+Neidentifikovane 297, nitro, homologicka rada 1: !!python/tuple
+- 343.43055555555554
+- 323.40277777777777
+Neidentifikovane 325, nitro, homologicka rada 1: !!python/tuple
+- 361.6839622641509
+- 350.49056603773585
+Neidentifikovane 341, nitro, homologicka rada 2: !!python/tuple
+- 364.6505376344086
+- 353.8494623655914
+Nonacosane: !!python/tuple
+- 326.04608294930875
+- 1086.4562211981568
+Octacosane: !!python/tuple
+- 313.7695852534562
+- 1063.0506912442397
+Octadecanamide, N-allyl-: !!python/tuple
+- 323.82547169811323
+- 476.8443396226415
+Octocrylene: !!python/tuple
+- 353.28372093023256
+- 422.45581395348836
+Pentacosane: !!python/tuple
+- 273.3211009174312
+- 1018.243119266055
+Pentaethylene glycol monododecyl ether: !!python/tuple
+- 356.0975609756098
+- 551.9674796747968
+Squalene: !!python/tuple
+- 316.6467889908257
+- 1105.8256880733945
+Tetradecanamide, N-allyl-: !!python/tuple
+- 266.8679245283019
+- 407.97641509433964
+Tetradecane, 1-chloro-: !!python/tuple
+- 152.62385321100916
+- 625.1376146788991
+Tetraethylene glycol monododecyl ether: !!python/tuple
+- 325.95375722543355
+- 535.0924855491329
+Triethylene glycol monododecyl ether: !!python/tuple
+- 286.8241206030151
+- 518.5075376884422
+alpha-Tocopheryl acetate: !!python/tuple
+- 376.9805825242718
+- 661.9466019417475

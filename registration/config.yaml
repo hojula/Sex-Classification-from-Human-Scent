@@ -1,0 +1,65 @@
+# config.yaml
+
+constants:
+  t1_shift: -500
+  dir_txt: '/mnt/storage/mock_text_data/'
+  dir_pt: '/mnt/storage/mock_cdf_processed/'
+  num_folds: 5
+  fold_num: 1
+  save_dir: '/mnt/storage/project/release_test/'
+  folds_references_dir: '/mnt/storage/project/registration/folds/'
+  avg_spectra_dir: '/home/user/project/scripts/avg_spectrum/'
+  m_folds_path: 'mock_small_folds_m.yaml'
+  f_folds_path: 'mock_small_folds_f.yaml'
+  compound_numbers_cnn_path: 'mock_compound_numbers_cnn.yaml'
+  compound_numbers_path: 'mock_compound_numbers.yaml'
+  reference_sample: 'mock_F4_05_system1.pt'
+  warp_metric: 'dot'
+  testing_while_training_cnn: True
+  dir_all_spectra: '/mnt/storage/project/cvpr/registration/all_spectrum/'
+
+calibration_compounds:
+  - Heptacosane
+  - Tetradecane, 1-chloro-
+  - 2,5-pyrrolidinedione, 3-decyl-
+  - 2,5-pyrrolidinedione, 3-dodecyl-
+  - 2,5-pyrrolidinedione, 3-tetradecyl-
+  - Squalene
+  - Cholesterol
+  - Hexadecanoic acid, dodecyl ester
+  - 9-Hexadecenoic acid, tetradecyl ester
+  - Hexadecanoic acid, tetradecyl ester
+  - 9-Hexadecenoic acid, hexadecyl ester
+  - Hexadecanoic acid, hexadecyl ester
+  - 9-Hexadecenoic acid, octadecyl ester
+  - Nonacosane
+  - 1-Dodecanol
+  - Dodecane, 1-chloro-
+  - Dodecanamide, N-allyl-
+  - 2,5-pyrrolidinedione, 3-hexadecyl-
+  - Fumaric acid, 2-dimethylaminoethyl heptyl ester
+  - Cholesta-3,5-diene (isomer 2)
+  - Cholesta-3,5-dien-7-one
+  - Cholesta-4,6-dien-3-one
+  - Cholest-4-en-3-one
+  - Hexadecanoic acid, octadecyl ester
+
+triangles:
+  - 3 35 36
+  - 35 36 67
+  - 9 35 67
+  - 9 10 35
+  - 10 35 39
+  - 10 12 39
+  - 11 12 39
+  - 11 39 46
+  - 29 39 46
+  - 29 32 39
+  - 9 65 67
+  - 9 10 65
+  - 10 12 65
+  - 11 12 65
+  - 11 46 65
+  - 20 46 65
+  - 20 29 46
+  - 20 29 32
