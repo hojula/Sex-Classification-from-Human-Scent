@@ -10,7 +10,7 @@ This project is structured into two main tasks, each in separate subdirectories 
    - **Additional Files**: Includes `settings_compound_position_detection.py`, `help_functions.py`, `match_txt_pt.py`, and other YAML configuration files.
    - **Configuration**: `registration/config.yaml` and other YAML configuration files.
 
-2. **Identification** (`classification/`): 
+2. **Classification** (`classification/`): 
    - **Sex Classification** (`train_network_classification.py`): Trains a model to classify sex based on registered measurements. 
    - **Job Submission** (`submit.py`): Manages execution inside a Singularity container.
    - **Singularity Execution** (`rci_job.sh`): Runs the job on SLURM.
