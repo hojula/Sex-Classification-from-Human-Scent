@@ -1,3 +1,15 @@
+# Sex Classification from Human Scent Using Image Interpretation of 2D Gas Chromatography-Mass Spectrometry Data
+
+[paper](https://link.springer.com/chapter/10.1007/978-3-031-95911-0_32)
+
+This repository accompanies the peer-reviewed paper **Sex Classification from Human Scent Using Image Interpretation of 2D Gas Chromatography-Mass Spectrometry Data**, accepted to **SCIA 2025**, by **Jan Hlavsa**, **Radim Špetlík**, **Jana Čechová**, **Petra Pojmanová**, **Jiří Matas**, and **Štěpán Urban**.
+
+
+## Description
+**TL;DR.** We treat raw GC×GC–ToF-MS human-scent measurements as multi-channel images and use convolutional neural networks to classify biological sex directly from full spectral data. Instead of relying only on manually selected compounds, we register chromatograms into a canonical frame and learn image-based representations from the raw measurements. On a newly released dataset of **504 samples from 40 individuals**, our method achieves **≈ 88% identity-aware cross-validation accuracy**, outperforming traditional compound-based baselines under subject-disjoint evaluation.
+
+![Teaser](img/teaser.png)
+
 # Compound Position Detection and Warping
 
 ## Overview
